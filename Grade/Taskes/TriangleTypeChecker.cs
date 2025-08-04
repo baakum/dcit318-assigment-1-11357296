@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
 
-class Program
+class TriangleTypeChecker
 {
     static void Main(string[] args)
     {

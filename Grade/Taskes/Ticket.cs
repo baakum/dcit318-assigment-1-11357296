@@ -1,6 +1,6 @@
 ﻿using System;
 
-class Program
+class Ticket
 {
     static void Main(string[] args)
     {

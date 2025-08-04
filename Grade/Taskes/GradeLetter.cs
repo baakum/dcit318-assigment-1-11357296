@@ -1,6 +1,6 @@
 ﻿using System;
 
-class Program
+class GradeLetter
 {
     static void Main(string[] args)
     {
